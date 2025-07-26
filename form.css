@@ -1,0 +1,17 @@
+body {
+  height: 100%;
+  overflow: hidden;
+  margin: 0;
+}
+#form{
+  border: 2px solid black;
+   width:400px; 
+   padding: 20px;
+   margin: 20px;
+   position: relative;
+   bottom: 400px;
+   left: 500px;
+}
+#bgimage {
+  filter: blur(20px);
+}
