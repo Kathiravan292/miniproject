@@ -13,5 +13,5 @@ body {
    left: 500px;
 }
 #bgimage {
-  filter: blur(110px);
+  filter: blur(10px);
 }
