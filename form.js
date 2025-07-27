@@ -8,3 +8,6 @@ pa.addEventListener('input',()=>{
       let val = 20 - length * 2
       bgimage.style.filter = `blur(${val}px)`
 });
+btnn.addEventListener('click',()=>{
+  alert("submit");
+  })
